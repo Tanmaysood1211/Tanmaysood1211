@@ -23,7 +23,9 @@ Hi, I'm Tanmay Sood! 👋
 
 
 ## 🌐 Socials:
-💼 **LinkedIn:** https://www.linkedin.com/in/tanmaysood [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:st.tanmaysood@aryacollege.edu.in) 
+💼 **LinkedIn:** https://www.linkedin.com/in/tanmaysood 
+📧 **Email:** [codebytanxxmay@gmail.com](mailto:codebytanxxmay@gmail.com)
+
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
