@@ -1,8 +1,29 @@
-# 💫 About Me:
-Hi there, I'm Tanmay Sood 👋 <br><br>👨‍💻 I'm a Multi-Stack Developer & Security Enthusiast<br><br>I have a diverse foundation in programming and system security. I love exploring how different languages interact with the hardware and the web.<br><br>🛠 My Skills<br>🔭 Current Focus<br>- 🟢 Deepening knowledge in **Cybersecurity** workflows.<br>- 🟡 Mastering **Data Structures** in C++ and Java.<br>- 🔵 Building automation scripts using **Bash & Python.<br><br>"The more I learn, the more I realize how much I don't know."
+
+## 🐣 About Me:
+
+Hi, I'm Tanmay Sood! 👋
+
+🚀 Founder of [TCG Solution](https://www.tcgsolution.online/) | Full Stack Developer | AI Enthusiast
+
+💻 I enjoy building modern web applications, scalable backend systems, and practical digital solutions using technologies across frontend, backend, and databases.
+
+🛠️ **My Focus:**
+- 🟢 Building responsive web applications using React.js, Next.js, HTML, CSS, and JavaScript.
+- 🟡 Developing backend services and REST APIs using Node.js, Express.js, Python, FastAPI, and Flask.
+- 🔵 Working with PostgreSQL, MySQL, MongoDB, and Supabase.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI.
+- 🟣 Strengthening my problem-solving skills through Data Structures & Algorithms.
+- 🔐 Learning about cybersecurity and secure software development.
+
+🌱 I'm continuously learning, experimenting with new technologies, and building projects that solve real-world problems.
+
+> "The more I learn, the more I realize how much I don't know."
+
+🌐 **Website:** https://www.tcgsolution.online/
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanmaysood) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:st.tanmaysood@aryacollege.edu.in) 
+💼 **LinkedIn:** https://www.linkedin.com/in/tanmaysood [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:st.tanmaysood@aryacollege.edu.in) 
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
